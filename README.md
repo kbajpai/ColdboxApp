@@ -1,0 +1,4 @@
+ColdboxApp
+==========
+
+Coldbox template
