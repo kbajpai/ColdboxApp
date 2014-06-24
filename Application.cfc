@@ -1,4 +1,5 @@
-﻿<!-----------------------------------------------------------------------
+﻿<!--- ADDING A COMMENT JUST TO TEST GIT COMMIT --->
+<!-----------------------------------------------------------------------
 ********************************************************************************
 Copyright 2005-2007 ColdBox Framework by Luis Majano and Ortus Solutions, Corp
 www.coldbox.org | www.luismajano.com | www.ortussolutions.com
